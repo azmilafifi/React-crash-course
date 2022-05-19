@@ -29,10 +29,6 @@ const App = () => {
 
 ] )
 
-
-
-
-
   //Add Task
 
   const addTask = (task) => {
